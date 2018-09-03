@@ -36,6 +36,10 @@ import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
  * @author Rob Harrop
  * @author Juergen Hoeller
  * @since 2.0
+ *
+ * 配置<tx:advice ></>
+ *
+ *
  */
 public class TxNamespaceHandler extends NamespaceHandlerSupport {
 
@@ -49,7 +53,8 @@ public class TxNamespaceHandler extends NamespaceHandlerSupport {
 				element.getAttribute(TRANSACTION_MANAGER_ATTRIBUTE) : DEFAULT_TRANSACTION_MANAGER_BEAN_NAME);
 	}
 
-
+    /* 初始化
+    * */
 	@Override
 	public void init() {
 		registerBeanDefinitionParser("advice", new TxAdviceBeanDefinitionParser());
