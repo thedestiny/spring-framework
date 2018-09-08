@@ -44,6 +44,9 @@ import org.springframework.util.xml.DomUtils;
  * @author Adrian Colyer
  * @author Chris Beams
  * @since 2.0
+ *
+ * 配置项
+ *
  */
 class TxAdviceBeanDefinitionParser extends AbstractSingleBeanDefinitionParser {
 
@@ -65,12 +68,16 @@ class TxAdviceBeanDefinitionParser extends AbstractSingleBeanDefinitionParser {
 
 	private static final String NO_ROLLBACK_FOR_ATTRIBUTE = "no-rollback-for";
 
-
+    /* AOP
+    * methodInterceptor 方法拦截
+    * */
 	@Override
 	protected Class<?> getBeanClass(Element element) {
+
 		return TransactionInterceptor.class;
 	}
 
+	/* 解析配置文件内容 */
 	@Override
 	protected void doParse(Element element, ParserContext parserContext, BeanDefinitionBuilder builder) {
 		builder.addPropertyReference("transactionManager", TxNamespaceHandler.getTransactionManagerName(element));

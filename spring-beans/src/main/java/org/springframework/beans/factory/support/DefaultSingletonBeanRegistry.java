@@ -70,16 +70,24 @@ import org.springframework.util.StringUtils;
  */
 public class DefaultSingletonBeanRegistry extends SimpleAliasRegistry implements SingletonBeanRegistry {
 
-	/** Cache of singleton objects: bean name to bean instance. */
+	/** Cache of singleton objects: bean name to bean instance.
+	 *  bean instance（缓存单例实例化对象的Map集合）
+	 * */
 	private final Map<String, Object> singletonObjects = new ConcurrentHashMap<>(256);
 
-	/** Cache of singleton factories: bean name to ObjectFactory. */
+	/** Cache of singleton factories: bean name to ObjectFactory.
+	 *   ObjectFactory（单例的工厂Bean缓存集合）
+	 * */
 	private final Map<String, ObjectFactory<?>> singletonFactories = new HashMap<>(16);
 
-	/** Cache of early singleton objects: bean name to bean instance. */
+	/** Cache of early singleton objects: bean name to bean instance.
+	 *  早期的单例对象缓存集合
+	 * */
 	private final Map<String, Object> earlySingletonObjects = new HashMap<>(16);
 
-	/** Set of registered singletons, containing the bean names in registration order. */
+	/** Set of registered singletons, containing the bean names in registration order.
+	 *  单例的实例化对象名称集合
+	 * */
 	private final Set<String> registeredSingletons = new LinkedHashSet<>(256);
 
 	/** Names of beans that are currently in creation. */
@@ -146,6 +154,8 @@ public class DefaultSingletonBeanRegistry extends SimpleAliasRegistry implements
 	 * resolve circular references.
 	 * @param beanName the name of the bean
 	 * @param singletonFactory the factory for the singleton object
+	 * 添加单例实例
+	 * 解决循环引用的问题
 	 */
 	protected void addSingletonFactory(String beanName, ObjectFactory<?> singletonFactory) {
 		Assert.notNull(singletonFactory, "Singleton factory must not be null");

@@ -78,6 +78,7 @@ public abstract class TransactionSynchronizationManager {
 
 	private static final Log logger = LogFactory.getLog(TransactionSynchronizationManager.class);
 
+	// threadlocal 基于线程
 	private static final ThreadLocal<Map<Object, Object>> resources =
 			new NamedThreadLocal<>("Transactional resources");
 
@@ -136,6 +137,7 @@ public abstract class TransactionSynchronizationManager {
 	 */
 	@Nullable
 	public static Object getResource(Object key) {
+		//
 		Object actualKey = TransactionSynchronizationUtils.unwrapResourceIfNecessary(key);
 		Object value = doGetResource(actualKey);
 		if (value != null && logger.isTraceEnabled()) {

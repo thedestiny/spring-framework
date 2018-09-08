@@ -43,6 +43,9 @@ import org.springframework.lang.Nullable;
  * @author Rod Johnson
  * @author Adrian Colyer
  * @since 2.0.3
+ *
+ * 默认拦截器链
+ *
  */
 @SuppressWarnings("serial")
 public class DefaultAdvisorChainFactory implements AdvisorChainFactory, Serializable {
