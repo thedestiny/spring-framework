@@ -258,6 +258,11 @@ public class ContextLoader {
 	 * @see #CONFIG_LOCATION_PARAM
 	 */
 	public WebApplicationContext initWebApplicationContext(ServletContext servletContext) {
+
+		// PS : ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE=WebApplicationContext.class.getName() + ".ROOT" 根上下文的名称
+		// PS : 默认情况下，配置文件的位置和名称是： DEFAULT_CONFIG_LOCATION = "/WEB-INF/applicationContext.xml" //在整个web应用中，只能有一个根上下文
+
+
 		if (servletContext.getAttribute(WebApplicationContext.ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE) != null) {
 			throw new IllegalStateException(
 					"Cannot initialize context because there is already a root application context present - " +
@@ -275,6 +280,7 @@ public class ContextLoader {
 			// Store context in local instance variable, to guarantee that
 			// it is available on ServletContext shutdown.
 			if (this.context == null) {
+				// 在这里执行了创建WebApplicationContext的操作
 				this.context = createWebApplicationContext(servletContext);
 			}
 			if (this.context instanceof ConfigurableWebApplicationContext) {
@@ -291,6 +297,7 @@ public class ContextLoader {
 					configureAndRefreshWebApplicationContext(cwac, servletContext);
 				}
 			}
+			// PS: 将根上下文放置在servletContext中
 			servletContext.setAttribute(WebApplicationContext.ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE, this.context);
 
 			ClassLoader ccl = Thread.currentThread().getContextClassLoader();
@@ -328,6 +335,9 @@ public class ContextLoader {
 	 * @see ConfigurableWebApplicationContext
 	 */
 	protected WebApplicationContext createWebApplicationContext(ServletContext sc) {
+
+		// 根据web.xml中的配置决定使用何种WebApplicationContext。默认情况下使用XmlWebApplicationContext
+		// web.xml中相关的配置context-param的名称“contextClass”
 		Class<?> contextClass = determineContextClass(sc);
 		if (!ConfigurableWebApplicationContext.class.isAssignableFrom(contextClass)) {
 			throw new ApplicationContextException("Custom context class [" + contextClass.getName() +

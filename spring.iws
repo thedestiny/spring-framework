@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277aadab-01e9-4db8-bda9-34bde98e4fb4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre7-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre8-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/CglibAopProxy.java" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/CglibAopProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ReflectiveMethodInvocation.java" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ReflectiveMethodInvocation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-beans/spring-beans.iml" afterPath="$PROJECT_DIR$/spring-beans/spring-beans.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-context/spring-context.iml" afterPath="$PROJECT_DIR$/spring-context/spring-context.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-core/spring-core.iml" afterPath="$PROJECT_DIR$/spring-core/spring-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" afterPath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-messaging/spring-messaging.iml" afterPath="$PROJECT_DIR$/spring-messaging/spring-messaging.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-test/spring-test.iml" afterPath="$PROJECT_DIR$/spring-test/spring-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-web/spring-web.iml" afterPath="$PROJECT_DIR$/spring-web/spring-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-webflux/spring-webflux.iml" afterPath="$PROJECT_DIR$/spring-webflux/spring-webflux.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" afterPath="$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/DispatcherServlet.java" afterPath="$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/DispatcherServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.ipr" afterPath="$PROJECT_DIR$/spring.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.iws" afterPath="$PROJECT_DIR$/spring.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java" afterPath="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java" afterPath="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-aop/.gradle/" />
     <ignored path="$PROJECT_DIR$/spring-aop/build/" />
@@ -125,102 +103,114 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spring.iws" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.iws">
+      <file leaf-file-name="StandaloneMockMvcBuilderTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-test/src/test/java/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilderTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24149">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1">
+              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="WebApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="199">
+              <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-build-src.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buildSrc/spring-build-src.gradle">
+      <file leaf-file-name="ContextLoaderInitializerTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-web/src/test/java/org/springframework/web/context/ContextLoaderInitializerTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="207">
+              <caret line="57" column="56" lean-forward="false" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring-build-src.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buildSrc/spring-build-src.iml">
+      <file leaf-file-name="ContextLoaderTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webmvc/src/test/java/org/springframework/web/context/ContextLoaderTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="199">
+              <caret line="67" column="59" lean-forward="true" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
+              <folding>
+                <element signature="e#4650#5078#0" expanded="true" />
+                <element signature="e#5077#5078#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XmlWebApplicationContext.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/support/XmlWebApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-source-set-dependencies.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buildSrc/src/main/resources/META-INF/gradle-plugins/test-source-set-dependencies.properties">
+      <file leaf-file-name="FrameworkServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/FrameworkServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="199">
+              <caret line="55" column="46" lean-forward="false" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSourceSetDependenciesPlugin.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buildSrc/src/main/groovy/org/springframework/build/gradle/TestSourceSetDependenciesPlugin.groovy">
+      <file leaf-file-name="ContextLoader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            <state relative-caret-position="443">
+              <caret line="561" column="1" lean-forward="true" selection-start-line="561" selection-start-column="1" selection-end-line="561" selection-end-column="1" />
+              <folding>
+                <element signature="e#10321#10322#0" expanded="true" />
+                <element signature="e#10350#10351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeanUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/BeanUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="126" column="35" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java">
+      <file leaf-file-name="ContextLoaderListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoaderListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="243">
+              <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+              <folding>
+                <element signature="e#4832#4833#0" expanded="true" />
+                <element signature="e#4853#4854#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractBeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+      <file leaf-file-name="Spr8510Tests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-web/src/test/java/org/springframework/web/context/support/Spr8510Tests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="115" column="39" lean-forward="false" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractAutowireCapableBeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="120" column="45" lean-forward="false" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultListableBeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="188" column="7" lean-forward="false" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="115" column="27" lean-forward="false" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+              <folding>
+                <element signature="e#4244#4401#0" expanded="true" />
+                <element signature="e#4400#4401#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -233,6 +223,10 @@
       <find>addSingletonFactory</find>
       <find>setT</find>
       <find>setTransactionIsolation</find>
+      <find>WebApplicationContext</find>
+      <find>WebApplicationContext</find>
+      <find>ContextLoaderListener</find>
+      <find>ContextLoader</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -260,6 +254,8 @@
         <option value="$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
         <option value="$PROJECT_DIR$/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/DataSourceTransactionManager.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java" />
+        <option value="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java" />
       </list>
     </option>
   </component>
@@ -274,9 +270,9 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="y" value="18" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-313" />
+    <option name="y" value="174" />
     <option name="width" value="1821" />
     <option name="height" value="992" />
   </component>
@@ -499,6 +495,74 @@
               <item name="transaction" type="462c0819:PsiDirectoryNode" />
               <item name="support" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -623,15 +687,15 @@
       <workItem from="1535590749616" duration="5280000" />
       <workItem from="1535679924946" duration="4689000" />
       <workItem from="1535870247658" duration="852000" />
-      <workItem from="1536630605770" duration="873000" />
+      <workItem from="1536630605770" duration="4883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20306000" />
+    <option name="totallyTimeSpent" value="24316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="18" width="1821" height="992" extended-state="0" />
+    <frame x="-313" y="174" width="1821" height="992" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -656,15 +720,16 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39764705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20120482" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22048193" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23736513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1266326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4649934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
@@ -677,7 +742,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4649934" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -730,93 +794,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/Advised.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="105" column="19" lean-forward="false" selection-start-line="105" selection-start-column="19" selection-end-line="105" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/TransactionStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/Propagation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/ProxyTransactionManagementConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/AbstractTransactionManagementConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="44" column="22" lean-forward="false" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/AnnotationTransactionAttributeSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/Ejb3TransactionAnnotationParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/NamespaceHandlerSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="136" column="25" lean-forward="false" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/aopalliance/intercept/MethodInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/aopalliance/intercept/Interceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="66" column="41" lean-forward="false" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/aopalliance/aop/Advice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/Ordered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/AbstractSingleBeanDefinitionParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -849,22 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="159" column="49" lean-forward="false" selection-start-line="159" selection-start-column="49" selection-end-line="159" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="37" column="102" lean-forward="false" selection-start-line="37" selection-start-column="102" selection-end-line="37" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/EnableTransactionManagement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2926">
-          <caret line="155" column="18" lean-forward="false" selection-start-line="155" selection-start-column="18" selection-end-line="155" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -927,14 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/Transactional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="97" column="46" lean-forward="false" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/Isolation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -966,7 +919,7 @@
         <state relative-caret-position="220">
           <caret line="45" column="59" lean-forward="true" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
           <folding>
-            <element signature="e#1272#1299#0" expanded="true" />
+            <element signature="e#1272#1299#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1137,9 +1090,144 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="352">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionAnnotationParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/Transactional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1187">
+          <caret line="97" column="46" lean-forward="false" selection-start-line="97" selection-start-column="46" selection-end-line="97" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/EnableTransactionManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="154" column="38" lean-forward="true" selection-start-line="154" selection-start-column="38" selection-end-line="154" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/benchmark/BenchmarkTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="153" column="26" lean-forward="true" selection-start-line="153" selection-start-column="26" selection-end-line="153" selection-end-column="26" />
+          <folding>
+            <element signature="e#7283#7284#0" expanded="true" />
+            <element signature="e#7310#7311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/test/java/org/springframework/web/context/support/Spr8510Tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="115" column="27" lean-forward="false" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+          <folding>
+            <element signature="e#4244#4401#0" expanded="true" />
+            <element signature="e#4400#4401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-test/src/test/java/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilderTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webmvc/src/test/java/org/springframework/web/context/ContextLoaderTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="67" column="59" lean-forward="true" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
+          <folding>
+            <element signature="e#4650#5078#0" expanded="true" />
+            <element signature="e#5077#5078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/test/java/org/springframework/web/context/ContextLoaderInitializerTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="57" column="56" lean-forward="false" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoaderListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+          <folding>
+            <element signature="e#4832#4833#0" expanded="true" />
+            <element signature="e#4853#4854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/FrameworkServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="55" column="46" lean-forward="false" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="126" column="35" lean-forward="true" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/support/XmlWebApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="561" column="1" lean-forward="true" selection-start-line="561" selection-start-column="1" selection-end-line="561" selection-end-column="1" />
+          <folding>
+            <element signature="e#10321#10322#0" expanded="true" />
+            <element signature="e#10350#10351#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
