@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="277aadab-01e9-4db8-bda9-34bde98e4fb4" name="Default" comment="" />
+    <list default="true" id="277aadab-01e9-4db8-bda9-34bde98e4fb4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre7-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre8-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jre8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/CglibAopProxy.java" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/CglibAopProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/JdkDynamicAopProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ReflectiveMethodInvocation.java" afterPath="$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/ReflectiveMethodInvocation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-beans/spring-beans.iml" afterPath="$PROJECT_DIR$/spring-beans/spring-beans.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-context/spring-context.iml" afterPath="$PROJECT_DIR$/spring-context/spring-context.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-core/spring-core.iml" afterPath="$PROJECT_DIR$/spring-core/spring-core.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" afterPath="$PROJECT_DIR$/spring-jdbc/spring-jdbc.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-messaging/spring-messaging.iml" afterPath="$PROJECT_DIR$/spring-messaging/spring-messaging.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-test/spring-test.iml" afterPath="$PROJECT_DIR$/spring-test/spring-test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-web/spring-web.iml" afterPath="$PROJECT_DIR$/spring-web/spring-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-webflux/spring-webflux.iml" afterPath="$PROJECT_DIR$/spring-webflux/spring-webflux.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" afterPath="$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/DispatcherServlet.java" afterPath="$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/DispatcherServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.ipr" afterPath="$PROJECT_DIR$/spring.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring.iws" afterPath="$PROJECT_DIR$/spring.iws" />
+    </list>
     <ignored path="$PROJECT_DIR$/spring-aop/.gradle/" />
     <ignored path="$PROJECT_DIR$/spring-aop/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -100,21 +125,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spring.ipr" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.ipr">
+      <file leaf-file-name="spring.iws" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring.iws">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1518">
+            <state relative-caret-position="-24149">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring.iws" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring.iws">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="770">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -190,11 +215,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultListableBeanFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DefaultListableBeanFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1180">
-              <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state relative-caret-position="316">
+              <caret line="188" column="7" lean-forward="false" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -221,7 +246,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactoryAware.java" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/FactoryBean.java" />
@@ -235,6 +259,7 @@
         <option value="$PROJECT_DIR$/spring-aop/src/main/java/org/aopalliance/intercept/MethodInterceptor.java" />
         <option value="$PROJECT_DIR$/spring-tx/src/main/java/org/springframework/transaction/support/TransactionSynchronizationManager.java" />
         <option value="$PROJECT_DIR$/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/DataSourceTransactionManager.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -250,8 +275,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="649" />
-    <option name="y" value="59" />
+    <option name="x" value="644" />
+    <option name="y" value="18" />
     <option name="width" value="1821" />
     <option name="height" value="992" />
   </component>
@@ -598,15 +623,15 @@
       <workItem from="1535590749616" duration="5280000" />
       <workItem from="1535679924946" duration="4689000" />
       <workItem from="1535870247658" duration="852000" />
-      <workItem from="1536630605770" duration="795000" />
+      <workItem from="1536630605770" duration="873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20228000" />
+    <option name="totallyTimeSpent" value="20306000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="649" y="59" width="1821" height="992" extended-state="0" />
+    <frame x="644" y="18" width="1821" height="992" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -631,7 +656,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39764705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20120482" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -705,13 +730,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/AdvisedSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4158">
-          <caret line="246" column="33" lean-forward="false" selection-start-line="246" selection-start-column="33" selection-end-line="246" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/org/springframework/aop/framework/Advised.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -930,7 +948,7 @@
         <state relative-caret-position="154">
           <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1045,14 +1063,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/buildSrc/spring-build-src.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1111,8 +1121,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1180">
-          <caret line="118" column="0" lean-forward="true" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        <state relative-caret-position="316">
+          <caret line="188" column="7" lean-forward="false" selection-start-line="188" selection-start-column="7" selection-end-line="188" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.iws">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24149">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding />
         </state>
       </provider>

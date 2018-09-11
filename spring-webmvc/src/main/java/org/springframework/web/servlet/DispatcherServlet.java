@@ -487,6 +487,7 @@ public class DispatcherServlet extends FrameworkServlet {
 
 	/**
 	 * This implementation calls {@link #initStrategies}.
+	 * ioc 容器启动后就会调用 onRefresh 方法
 	 */
 	@Override
 	protected void onRefresh(ApplicationContext context) {
@@ -498,14 +499,26 @@ public class DispatcherServlet extends FrameworkServlet {
 	 * <p>May be overridden in subclasses in order to initialize further strategy objects.
 	 */
 	protected void initStrategies(ApplicationContext context) {
+
+		// 默认策略
+
+		// 请求解析
 		initMultipartResolver(context);
+		// 多语言 国际化
 		initLocaleResolver(context);
+		// 主题view层
 		initThemeResolver(context);
+		// 解析url和method
 		initHandlerMappings(context);
+		// 适配器
 		initHandlerAdapters(context);
+		// 异常解析
 		initHandlerExceptionResolvers(context);
+		// 视图转发
 		initRequestToViewNameTranslator(context);
+		// 解析模板内容 拿到数据 生成html
 		initViewResolvers(context);
+		//
 		initFlashMapManager(context);
 	}
 
@@ -597,7 +610,7 @@ public class DispatcherServlet extends FrameworkServlet {
 					BeanFactoryUtils.beansOfTypeIncludingAncestors(context, HandlerMapping.class, true, false);
 			if (!matchingBeans.isEmpty()) {
 				this.handlerMappings = new ArrayList<>(matchingBeans.values());
-				// We keep HandlerMappings in sorted order.
+				// We keep HandlerMappings in sorted order. 排序
 				AnnotationAwareOrderComparator.sort(this.handlerMappings);
 			}
 		}
@@ -1033,7 +1046,7 @@ public class DispatcherServlet extends FrameworkServlet {
 					return;
 				}
 
-				// Actually invoke the handler.
+				// Actually invoke the handler. 处理调用结果
 				mv = ha.handle(processedRequest, response, mappedHandler.getHandler());
 
 				if (asyncManager.isConcurrentHandlingStarted()) {

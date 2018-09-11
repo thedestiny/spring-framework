@@ -54,6 +54,9 @@
     <option name="LOCALE" />
     <option name="OPEN_IN_BROWSER" value="true" />
   </component>
+  <component name="Kotlin2JvmCompilerArguments">
+    <option name="jvmTarget" value="1.8" />
+  </component>
   <component name="KotlinCommonCompilerArguments">
     <option name="languageVersion" value="1.2" />
     <option name="apiVersion" value="1.2" />
@@ -94,6 +97,23 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="KotlinJavaRuntime">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-test.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre7.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre8.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre7-sources.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jre8-sources.jar!/" />
+      </SOURCES>
+    </library>
   </component>
   <component name="masterDetails">
     <states>
