@@ -119,6 +119,7 @@
     <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
   </component>
+<<<<<<< HEAD
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -141,40 +142,71 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.opened" value="4" />
+=======
+  <component name="FUSProjectUsageTrigger">
+    <session id="1939083544">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="gitignore" value="1" />
           <entry key="gradle" value="2" />
           <entry key="java" value="10" />
           <entry key="md" value="1" />
+=======
+          <entry key="java" value="14" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Git file" value="1" />
           <entry key="Groovy" value="2" />
           <entry key="JAVA" value="10" />
           <entry key="Markdown" value="1" />
+=======
+          <entry key="JAVA" value="14" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="gitignore" value="7" />
           <entry key="md" value="6" />
+=======
+          <entry key="java" value="92" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="Git file" value="7" />
           <entry key="Markdown" value="6" />
+=======
+          <entry key="JAVA" value="92" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/annotation/package-info.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -183,11 +215,19 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="499" column="9" selection-start-line="499" selection-start-column="9" selection-end-line="499" selection-end-column="9" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -195,78 +235,141 @@
                 <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               </first_editor>
               <second_editor />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/ListableBeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
               <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowired.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
               <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2242">
+              <caret line="134" column="10" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AnnotatedGenericBeanDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
               <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/SmartInitializingSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowire.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="750">
               <caret line="44" column="48" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/SmartFactoryBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1000">
               <caret line="61" column="58" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/FactoryBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2550">
               <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Required.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowired.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1550">
               <caret line="80" column="36" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10659">
+              <caret line="626" column="5" selection-start-line="626" selection-start-column="5" selection-end-line="626" selection-end-column="5" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/BeanInfoFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="800">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
+=======
+        <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/RootBeanDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2869">
+              <caret line="181" column="30" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
             </state>
           </provider>
         </entry>
@@ -288,6 +391,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GradleLocalSettings">
     <option name="availableProjects">
       <map>
@@ -324,10 +428,11 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactoryAware.java" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/FactoryBean.java" />
         <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" />
@@ -342,8 +447,15 @@
         <option value="$PROJECT_DIR$/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/DataSourceTransactionManager.java" />
         <option value="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java" />
         <option value="$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+=======
+        <option value="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/ApplicationContextAwareProcessor.java" />
+        <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
       </list>
     </option>
   </component>
@@ -359,10 +471,15 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="171" />
     <option name="y" value="17" />
+=======
+    <option name="x" value="137" />
+    <option name="y" value="128" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
     <option name="width" value="1821" />
-    <option name="height" value="992" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -378,6 +495,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -386,6 +507,7 @@
               <item name="spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-framework" type="462c0819:PsiDirectoryNode" />
@@ -431,11 +553,12 @@
               <item name="beans" type="462c0819:PsiDirectoryNode" />
               <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,11 +568,18 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+<<<<<<< HEAD
     <property name="SearchEverywhereHistoryKey" value="ClasspathA&#9;PSI&#9;JAVA://org.springframework.context.support.ClassPathXmlApplicationContext&#10;ListableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.ListableBeanFactory&#10;DefaultSingletonBeanRegistry&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.DefaultSingletonBeanRegistry&#10;ApplicationContextAware&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContextAware" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-annotation" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+=======
+    <property name="SearchEverywhereHistoryKey" value="ApplicationC&#9;FILE&#9;file://E:/framework-source/spring-framework/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java&#10;ApplicationContextA&#9;PSI&#9;JAVA://org.springframework.context.support.ApplicationContextAwareProcessor&#10;ClasspathA&#9;PSI&#9;JAVA://org.springframework.context.support.ClassPathXmlApplicationContext&#10;ListableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.ListableBeanFactory&#10;DefaultSingletonBeanRegistry&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.DefaultSingletonBeanRegistry&#10;ApplicationContextAware&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContextAware" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -525,14 +655,25 @@
       <workItem from="1535679924946" duration="4689000" />
       <workItem from="1535870247658" duration="852000" />
       <workItem from="1536630605770" duration="4883000" />
+<<<<<<< HEAD
       <workItem from="1554896194765" duration="650000" />
       <workItem from="1554898031881" duration="1323000" />
       <workItem from="1554946073484" duration="1181000" />
       <workItem from="1555032843176" duration="228000" />
+=======
+      <workItem from="1554477458403" duration="788000" />
+      <workItem from="1554520901216" duration="4315000" />
+      <workItem from="1554623478220" duration="586000" />
+      <workItem from="1554734879634" duration="594000" />
+      <workItem from="1554816223938" duration="587000" />
+      <workItem from="1554908462574" duration="586000" />
+      <workItem from="1554996735936" duration="274000" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="27470000" />
   </component>
   <component name="ToolWindowManager">
@@ -540,6 +681,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15795454" />
+=======
+    <option name="totallyTimeSpent" value="32046000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-33" y="624" width="1821" height="1066" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23452584" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -560,7 +710,11 @@
       <window_info anchor="bottom" id="JRebel Executor" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.49939975" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.36746988" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.20243363" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="14" />
@@ -569,18 +723,26 @@
       <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="18" />
       <window_info anchor="bottom" id="Tail" order="19" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Docker" order="20" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="21" />
       <window_info anchor="bottom" id="Database Changes" order="22" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="23" weight="0.5975904" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="24" />
+=======
+      <window_info anchor="bottom" id="Database Changes" order="20" show_stripe_button="false" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.3143777" />
       <window_info anchor="right" id="Designer" order="5" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Database" order="6" visible="true" weight="0.04943182" />
+=======
+      <window_info anchor="right" id="Database" order="6" weight="0.15991472" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
       <window_info anchor="right" id="CDI" order="7" />
       <window_info anchor="right" id="JSF" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -588,9 +750,12 @@
       <window_info anchor="right" id="Redis Servers" order="11" />
       <window_info anchor="right" id="Mongo Explorer" order="12" />
       <window_info anchor="right" id="Theme Preview" order="13" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Mybatis datasource" order="14" side_tool="true" weight="0.32954547" />
       <window_info anchor="right" id="BPMNPalette" order="15" />
       <window_info anchor="right" id="Gradle" order="16" />
+=======
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,6 +806,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/NamedThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -669,6 +835,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/sql/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -692,6 +860,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor" />
+<<<<<<< HEAD
+=======
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
     </entry>
     <entry file="file://$PROJECT_DIR$/.mailmap">
       <provider selected="true" editor-type-id="text-editor" />
@@ -742,6 +916,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1518" />
       </provider>
+<<<<<<< HEAD
+=======
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildSrc/spring-build-src.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
     </entry>
     <entry file="file://$PROJECT_DIR$/buildSrc/spring-build-src.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -826,40 +1006,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-test/src/test/java/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilderTests.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="475">
           <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+=======
+        <state relative-caret-position="361">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/WebApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1875">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
+=======
+        <state relative-caret-position="1425">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-web/src/test/java/org/springframework/web/context/ContextLoaderInitializerTests.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="800">
+=======
+        <state relative-caret-position="608">
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
           <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-webmvc/src/test/java/org/springframework/web/context/ContextLoaderTests.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="575">
+=======
+        <state relative-caret-position="437">
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
           <caret line="67" column="59" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/support/XmlWebApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="350">
+=======
+        <state relative-caret-position="266">
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
           <caret line="33" column="65" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-webmvc/src/main/java/org/springframework/web/servlet/FrameworkServlet.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1025">
           <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
@@ -876,18 +1079,55 @@
     <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/BeanUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="55" column="46" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5700">
+          <caret line="340" column="58" selection-start-line="340" selection-start-column="58" selection-end-line="340" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
           <caret line="126" column="35" selection-start-line="126" selection-start-column="35" selection-end-line="126" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-web/src/main/java/org/springframework/web/context/ContextLoaderListener.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2225">
+=======
+        <state relative-caret-position="1653">
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
           <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-web/src/test/java/org/springframework/web/context/support/Spr8510Tests.java">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2300">
           <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
@@ -978,6 +1218,95 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="115" column="27" selection-start-line="115" selection-start-column="27" selection-end-line="115" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/ApplicationContextAwareProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="119" column="47" selection-start-line="119" selection-start-column="47" selection-end-line="119" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/ApplicationContextAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-context/src/main/java/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="499" column="9" selection-start-line="499" selection-start-column="9" selection-end-line="499" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2242">
+          <caret line="134" column="10" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/SmartInitializingSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/SmartFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/FactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Required.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10659">
+          <caret line="626" column="5" selection-start-line="626" selection-start-column="5" selection-end-line="626" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/RootBeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2869">
+          <caret line="181" column="30" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
         </state>
       </provider>
     </entry>
