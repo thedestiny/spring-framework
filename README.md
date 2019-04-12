@@ -3,6 +3,7 @@
 This is the home of the Spring Framework, the foundation for all
 [Spring projects](https://spring.io/projects). Together the Spring Framework and the family of Spring projects make up what we call "Spring". 
 
+>>>>>>> 919f672e7ad9c78b4ae25c6605136a38e43ac2d3
 Spring provides everything you need beyond the Java language to create enterprise
 applications in a wide range of scenarios and architectures. Please read the
 [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction)
