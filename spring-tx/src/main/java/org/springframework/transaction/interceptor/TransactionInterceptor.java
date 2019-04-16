@@ -41,7 +41,7 @@ import org.springframework.transaction.PlatformTransactionManager;
  * such as {@link #invokeWithinTransaction} in the correct order.
  *
  * <p>TransactionInterceptors are thread-safe.
- *
+ * 事务拦截器实现 MethodInterceptor
  * @author Rod Johnson
  * @author Juergen Hoeller
  * @see TransactionProxyFactoryBean
