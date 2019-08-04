@@ -546,7 +546,7 @@ public class BeanDefinitionParserDelegate {
 		return null;
 	}
 
-	/**
+	/** 解析bean标签
 	 * Apply the attributes of the given bean element to the given bean * definition.
 	 * @param ele bean declaration element
 	 * @param beanName bean name
